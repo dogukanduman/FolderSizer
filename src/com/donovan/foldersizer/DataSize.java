@@ -1,6 +1,4 @@
 package com.donovan.foldersizer;
-
-
 enum DataSizeType {
 	Byte(1){
 	    @Override
