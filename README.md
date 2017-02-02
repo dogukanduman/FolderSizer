@@ -1,6 +1,8 @@
 # FolderSizer
 List the sizes of folders in a given directory.
-It is easy to use if you create alias.
+
+It is easy to use if you create an alias.
+
 alias FS='java -jar ~[path]/FS.jar'
 
 ##Output Sample
