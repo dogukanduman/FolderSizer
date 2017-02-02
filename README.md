@@ -4,7 +4,7 @@ It is easy to use if you create alias.
 alias FS='java -jar ~[path]/FS.jar'
 
 ##Output Sample
-Terminal: FMS /Users/..../FolderSizer/<br />
+Terminal: FMS /Users/..../FolderSizer
 ```
 ║---------------------------------------------------------------------------------------------║
 ║Name                                                         Size       Type       SubFiles  ║
@@ -20,7 +20,7 @@ Terminal: FMS /Users/..../FolderSizer/<br />
 ║.gitignore                                                   6B         File       0         ║
 ║---------------------------------------------------------------------------------------------║
 
-Terminal: FMS /Users/..../FolderSizer/ 3<br />
+Terminal: FMS /Users/..../FolderSizer 3
 
 ║---------------------------------------------------------------------------------------------║
 ║Name                                                         Size       Type       SubFiles  ║
