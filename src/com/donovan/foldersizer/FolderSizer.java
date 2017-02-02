@@ -18,7 +18,7 @@ public class FolderSizer {
 	    	
 	    	
 	    	//args=new String[2];
-	    	//args[0]="/Users/ttdduman/downLoads";
+	    	//args[0]="/Users/downLoads";
 	    	//args[1]="10";
 	    	if (args.length > 0) {
 	    	    Path path = Paths.get(args[0]);
